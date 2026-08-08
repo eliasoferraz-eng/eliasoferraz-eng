@@ -22,6 +22,20 @@
   - ⚡ I enjoy reading, whether it's a good book, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
+
+<h3>🎵 What I'm Listening To</h3>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/b59uyk2ior2vc6rkqbkvv8s2n" target="_blank">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=b59uyk2ior2vc6rkqbkvv8s2n&cover_image=true&theme=default&show_offline=false&background_color=0d1117&bar_color=1DB954&bar_color_cover=true&border_radius=10"
+      alt="Spotify Now Playing"
+      width="400"
+    />
+  </a>
+</div>
+
+
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@silveriomoshe)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elias._.ferraz/)
