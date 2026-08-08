@@ -34,13 +34,20 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=eliasoferraz-eng&langs_count=4&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=eliasoferraz-eng&langs_count=4&theme=github_dark)
 
 <!-- Portfolio -->
-## Portfolio:
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio)
+## 🚧 Portfolio
 
+<p align="center">
+  <img src="https://chatgpt.com/s/m_6a77b731aafc8191bbd2b47f69986556" width="800" alt="Portfolio Under Construction" />
+</p>
+
+<p align="center">
+  <strong>🚧 Portfolio Under Construction 🚧</strong>
+</p>
+
+<p align="center">
+  I'm currently working on new projects and updating my portfolio.<br>
+  New projects coming soon! 👨‍💻
+</p>
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
